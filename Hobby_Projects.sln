@@ -1,12 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCleanup", "WindowsFormsApplication1\FolderCleanup.csproj", "{02F96D05-32BD-4AD9-9F10-3AFD4137DCED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderCleanup", "FolderCleanup\FolderCleanup.csproj", "{02F96D05-32BD-4AD9-9F10-3AFD4137DCED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+		Description = fsef
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{02F96D05-32BD-4AD9-9F10-3AFD4137DCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
