@@ -14,6 +14,7 @@ namespace FolderCleanup
         public string[] getWhitelist()
         {
             return whitelist.getWhitelist();
+            //will it work?
         }
 
         public void moveFile(string pathOriginal, string pathBackup)
